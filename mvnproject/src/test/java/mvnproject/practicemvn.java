@@ -16,13 +16,13 @@ public class practicemvn {
 		System.out.println("Browser =="+Browser);
 		System.out.println("UN =="+userName);
 		System.out.println("PWD =="+Password);
-		System.out.println("end");
+		
 
 	}
 	@Test(priority = 3)
 	public void test1() {
 		System.out.println("tyss02");
-		System.out.println("end");
+		
 
 	}
 	@Test
