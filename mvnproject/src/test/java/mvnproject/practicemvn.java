@@ -16,6 +16,7 @@ public class practicemvn {
 		System.out.println("Browser =="+Browser);
 		System.out.println("UN =="+userName);
 		System.out.println("PWD =="+Password);
+		System.out.println("end");
 
 	}
 	@Test(priority = 3)
