@@ -28,7 +28,7 @@ public class practicemvn {
 		System.out.println("tyss03");
 
 	}
-	@Test(enabled=false)
+	@Test()
 	public void test3() {
 		System.out.println("tyss04");
 
