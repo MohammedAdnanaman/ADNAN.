@@ -23,17 +23,20 @@ public class practicemvn {
 	@Test(priority = 3)
 	public void test1() {
 		System.out.println("tyss02");
+		System.out.println("end");
 		
 
 	}
 	@Test
 	public void test2() {
 		System.out.println("tyss03");
+		System.out.println("end");
 
 	}
 	@Test()
 	public void test3() {
 		System.out.println("tyss04");
+		System.out.println("end");
 
 	}
 }
