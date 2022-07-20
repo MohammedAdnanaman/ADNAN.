@@ -23,6 +23,9 @@ public class practicemvn {
 	@Test(priority = 3)
 	public void test1() {
 		System.out.println("tyss02");
+		System.out.println("end");
+		
+				
 		
 
 	}
@@ -34,6 +37,10 @@ public class practicemvn {
 	@Test()
 	public void test3() {
 		System.out.println("tyss04");
+		
+	}
+	public void test4() {
+		System.out.println("tyss05");
 
 	}
 }
