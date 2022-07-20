@@ -36,7 +36,7 @@ public class practicemvn {
 	@Test()
 	public void test3() {
 		System.out.println("tyss04");
-		System.out.println("end");
+	
 
 	}
 }
