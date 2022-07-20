@@ -1,21 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-07-19T10:35:00 IST" name="Default suite" finished-at="2022-07-19T10:35:00 IST" duration-ms="39">
+  <suite started-at="2022-07-20T13:09:27 IST" name="Default suite" finished-at="2022-07-20T13:09:27 IST" duration-ms="61">
     <groups>
     </groups>
-    <test started-at="2022-07-19T10:35:00 IST" name="Default test" finished-at="2022-07-19T10:35:00 IST" duration-ms="39">
+    <test started-at="2022-07-20T13:09:27 IST" name="Default test" finished-at="2022-07-20T13:09:27 IST" duration-ms="61">
       <class name="mvnproject.practicemvn">
-        <test-method signature="test()[pri:0, instance:mvnproject.practicemvn@37d4349f]" started-at="2022-07-19T10:35:00 IST" name="test" finished-at="2022-07-19T10:35:00 IST" duration-ms="6" status="PASS">
+        <test-method signature="test()[pri:0, instance:mvnproject.practicemvn@7bab3f1a]" started-at="2022-07-20T13:09:27 IST" name="test" finished-at="2022-07-20T13:09:27 IST" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method signature="test2()[pri:0, instance:mvnproject.practicemvn@37d4349f]" started-at="2022-07-19T10:35:00 IST" name="test2" finished-at="2022-07-19T10:35:00 IST" duration-ms="1" status="PASS">
+        <test-method signature="test2()[pri:0, instance:mvnproject.practicemvn@7bab3f1a]" started-at="2022-07-20T13:09:27 IST" name="test2" finished-at="2022-07-20T13:09:27 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test2 -->
-        <test-method signature="test1()[pri:3, instance:mvnproject.practicemvn@37d4349f]" started-at="2022-07-19T10:35:00 IST" name="test1" finished-at="2022-07-19T10:35:00 IST" duration-ms="1" status="PASS">
+        <test-method signature="test3()[pri:0, instance:mvnproject.practicemvn@7bab3f1a]" started-at="2022-07-20T13:09:27 IST" name="test3" finished-at="2022-07-20T13:09:27 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method signature="test1()[pri:3, instance:mvnproject.practicemvn@7bab3f1a]" started-at="2022-07-20T13:09:27 IST" name="test1" finished-at="2022-07-20T13:09:27 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
